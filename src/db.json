@@ -1,0 +1,124 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Beaded Necklace",
+      "category": "Beaded Jewelry",
+      "ornament": "Necklace",
+      "price": 500,
+      "popularity": 3,
+      "description": "Beautiful handcrafted beaded necklace.",
+      "image": "/images/BeadedNecklace.avif"
+    },
+    {
+      "id": 2,
+      "name": "Beaded Bracelet",
+      "category": "Beaded Jewelry",
+      "ornament": "Bracelet",
+      "price": 300,
+      "popularity": 4,
+      "description": "Elegant beaded bracelet with vibrant colors.",
+      "image": "/images/BeadedBracelet.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Beaded Earrings",
+      "category": "Beaded Jewelry",
+      "ornament": "Earrings",
+      "price": 200,
+      "popularity": 5,
+      "description": "Stylish beaded earrings for any occasion.",
+      "image": "/images/BeadedEaring.jpeg"
+    },
+    {
+      "id": 4,
+      "name": "Wire Wrapped Necklace",
+      "category": "Wire Wrapped Jewelry",
+      "ornament": "Necklace",
+      "price": 600,
+      "popularity": 2,
+      "description": "Handcrafted wire wrapped necklace with gemstones.",
+      "image": "/images/WireNecklace.jpeg"
+    },
+    {
+      "id": 5,
+      "name": "Wire Wrapped Bracelet",
+      "category": "Wire Wrapped Jewelry",
+      "ornament": "Bracelet",
+      "price": 400,
+      "popularity": 3,
+      "description": "Artistic wire wrapped bracelet with intricate designs.",
+      "image": "/images/WireBracelet.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Wire Wrapped Earrings",
+      "category": "Wire Wrapped Jewelry",
+      "ornament": "Earrings",
+      "price": 250,
+      "popularity": 4,
+      "description": "Beautiful wire wrapped earrings with unique patterns.",
+      "image": "/images/WireEaring.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Metalwork Ring",
+      "category": "Metalwork Jewelry",
+      "ornament": "Ring",
+      "price": 700,
+      "popularity": 5,
+      "description": "Handmade metalwork ring with exquisite detailing.",
+      "image": "/images/MetalRing.jpeg"
+    },
+    {
+      "id": 8,
+      "name": "Metalwork Necklace",
+      "category": "Metalwork Jewelry",
+      "ornament": "Necklace",
+      "price": 800,
+      "popularity": 3,
+      "description": "Unique metalwork necklace with intricate designs.",
+      "image": "/images/MetalNecklace.jpeg"
+    },
+    {
+      "id": 9,
+      "name": "Metalwork Bracelet",
+      "category": "Metalwork Jewelry",
+      "ornament": "Bracelet",
+      "price": 500,
+      "popularity": 4,
+      "description": "Artistic metalwork bracelet with detailed craftsmanship.",
+      "image": "/images/MetalBracelet.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Resin Earrings",
+      "category": "Resin Jewelry",
+      "ornament": "Earrings",
+      "price": 150,
+      "popularity": 5,
+      "description": "Colorful resin earrings perfect for any occasion.",
+      "image": "/images/ResinEaring.jpeg"
+    },
+    {
+      "id": 11,
+      "name": "Resin Necklace",
+      "category": "Resin Jewelry",
+      "ornament": "Necklace",
+      "price": 350,
+      "popularity": 3,
+      "description": "Handmade resin necklace with beautiful patterns.",
+      "image": "/images/ResinNecklace.jpeg"
+    },
+    {
+      "id": 12,
+      "name": "Resin Bracelet",
+      "category": "Resin Jewelry",
+      "ornament": "Bracelet",
+      "price": 250,
+      "popularity": 4,
+      "description": "Stylish resin bracelet with vibrant colors.",
+      "image": "/images/ResinBracelet.jpg"
+    }
+  ]
+}
